@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="Cybin">
-    <title>Login | Ma'din Polytechnic College - Student Tracking System</title>
+    <title>Login | SSM POLYTECHNIC COLLEGE - E-ATTENDANCE</title>
 
     <!-- BOOTSTRAP CSS (REQUIRED ALL PAGE)-->
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">

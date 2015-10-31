@@ -5,9 +5,9 @@ session_start();  //to handle user login
 $client = true;
 
 // requiring the class files
-require("models/user.php");
-require("models/student.php");
-require("models/complaint.php");
+//require("models/user.php");
+//require("models/student.php");
+
 
 $action = isset( $_GET['action'] ) ? $_GET['action'] : "";
 $user = isset( $_SESSION['student'] ) ? $_SESSION['student'] : "";
